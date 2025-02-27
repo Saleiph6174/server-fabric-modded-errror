@@ -1,7 +1,7 @@
 # server-fabric-modded-errror
 Error with my private server fabric modded help?
 [EN] Hi ! I have a problem with my Fabric Modded server, it's Modded Minecraft cobblemon which doesn't want to launch, I added a map to it normally but it doesn't launch anyway. help is appreciated!!!
-[FR] Salut ! J'ai un soucis avec mon server Fabric Modded, c'est Moddé Minecraft cobblemon qui ne veut pas se lancer, j'y ai ajouter une map normalement mais de toute façon ça ne se lance pas. de l'aide est apprécié !!!
+[FR] Salut ! J'ai un soucis avec mon server Fabric Modded, c'est Moddé Minecraft cobblemon qui ne veut pas se lancer, j'y ai ajouter une map normalement mais de toute façon ça ne se lance pas. de l'aide est apprécié !!! 
 
 code error:
 PollyMC version: 8.0 (official)
